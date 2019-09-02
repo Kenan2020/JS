@@ -1,0 +1,7 @@
+.sort() .. sorting assending
+.push() .. push element to the end of an Array
+.unshift() .. add element to the beginn
+.shift() .. remove element from the beginn
+.pop() .. remove the last element
+.slice() .. 
+.splice(0, 1)..... starting from 0 and remove 1 item
