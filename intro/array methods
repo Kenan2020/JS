@@ -1,5 +1,10 @@
-.sort() .. sorting assending
+let arr =[]
+.forEach(function(item, index){  })
+Array.isArray(arr) .. return true or false
+.length .. return the numbers of element
+.sort() .. sort an Array
 .push() .. push element to the end of an Array
+.toString() .. convert an array to a string of array values
 .unshift() .. add element to the beginn
 .shift() .. remove element from the beginn
 .pop() .. remove the last element
