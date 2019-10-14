@@ -19,3 +19,6 @@ strings
 .includes
 
 
+JSON: JavaScript Object Notation
+
+
